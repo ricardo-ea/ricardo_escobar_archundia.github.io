@@ -3,7 +3,10 @@ Este es un repositorio que contiene la información de los proyectos que he desa
 
 # 🚀 Mi Portafolio de Análisis de Datos
 
-👋 ¡Hola! Soy Ricardo Escobar Archundia, analista de datos enfocado en Python, SQL, Power BI, etc.
+👋 ¡Hola! Soy Ricardo Escobar Archundia, analista de datos con sólida base y conocimientos en Python, SQL, NumPy. Inicialmente Licenciado en Administración de Empresas con experiencia en análisis de datos, gestión operativa, optimización de recursos, análisis de resultados, generador de insights para la toma de decisiones basada en datos. Background en sectores financiero, marketing digital y operación de negocios. Entre otros aspectos, disfruto construir redes de networking de valor, colaborar en entornos multidisciplinarios y transformar información en decisiones accionables.
+
+📌 Intereses clave:
+Negocios · Análisis de Datos · Inteligencia Artificial · Estrategia Comercial · Automatización · Consultoría · Crecimiento Empresarial · Abierto a nuevas oportunidades y colaboraciones que generen alto impacto
 
 ## 📂 Proyectos
 ### 📊 Proyecto 1: Programa de fidelización de clientes de una tienda
